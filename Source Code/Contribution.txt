@@ -1,0 +1,9 @@
+Contribution
+****************************************************************************************************
+>Design and Setup: Haris
+>Configurations: Haris
+>Collecting Samples and Analytics: Haris and Ravikanth
+>Code for Raspberry Pi: Haris
+>Code for Bluemix Application: Haris
+>Code for Laptop: Ravikanth and Haris
+>Documentation: Ravikanth, Mathioli, Arpita, and Haris
